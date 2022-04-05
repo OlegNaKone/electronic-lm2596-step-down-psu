@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name breadboard-extend-module-rescue)(type Legacy)(uri "/mnt/md0/radio/current_projects/breadboard extend module/breadboard extend module-rescue.lib")(options "")(descr ""))
+)
